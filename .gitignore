@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+videos
+screenshots
+reports
+downloads
+fixtures
+cypress.env.json
+routes.js
