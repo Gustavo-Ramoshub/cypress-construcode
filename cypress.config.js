@@ -6,8 +6,6 @@ const fs = require('fs-extra')
 const path = require('path')
 
 module.exports = defineConfig({
-  // ID do projeto Cypress para integração com Dashboard
-  projectId: 'r5mzck',
   // Define o reporter para gerar relatórios detalhados
   reporter: 'cypress-mochawesome-reporter',
   e2e: {
