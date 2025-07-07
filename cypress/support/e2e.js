@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import './commands'
+import './data/commands'
 import 'cypress-mochawesome-reporter/register'
 
 before(() => {
